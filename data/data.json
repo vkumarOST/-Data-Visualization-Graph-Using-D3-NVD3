@@ -1,0 +1,786 @@
+ var datu =  {
+					"91": {
+						"value": {
+							"137": 18450
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"101": {
+						"value": {
+							"137": 19230
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"111": {
+						"value": {
+							"137": 114477
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"113": {
+						"value": {
+							"137": 2400
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"f13": {
+						"value": {
+							"137": 15525886.3012
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"b16": {
+						"value": {
+							"137": 13000014.2385
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"d10": {
+						"value": {
+							"137": 12826704.3008
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"d5b": {
+						"value": {
+							"137": 12760224
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"b15": {
+						"value": {
+							"137": 10568059.9793
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"e21": {
+						"value": {
+							"137": 9398706
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"c22": {
+						"value": {
+							"137": 9062180
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"h16": {
+						"value": {
+							"137": 8803282
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"b22": {
+						"value": {
+							"137": 8440514.5
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"c11": {
+						"value": {
+							"137": 8076281.23
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"a5b": {
+						"value": {
+							"137": 7865373.9999
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"c5b": {
+						"value": {
+							"137": 7854188.9996
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"h21": {
+						"value": {
+							"137": 7848632
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"i10": {
+						"value": {
+							"137": 7748785
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"j16": {
+						"value": {
+							"137": 7209758.332
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"f10": {
+						"value": {
+							"137": 7098322.0048
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"k09": {
+						"value": {
+							"137": 7028202.0012
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"i11": {
+						"value": {
+							"137": 6864229.2504
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"g11": {
+						"value": {
+							"137": 6626022.236
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"h10": {
+						"value": {
+							"137": 6361398
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"h09": {
+						"value": {
+							"137": 5975484.0028
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"g16": {
+						"value": {
+							"137": 5944278.997
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"a15": {
+						"value": {
+							"137": 5943380.9991
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"a81": {
+						"value": {
+							"137": 5691682.99
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"a23": {
+						"value": {
+							"137": 5404898.25
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"k11": {
+						"value": {
+							"137": 5359668.6596
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"e16": {
+						"value": {
+							"137": 5347133
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"c82": {
+						"value": {
+							"137": 5340535
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"c16": {
+						"value": {
+							"137": 5148067.9995
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"i09": {
+						"value": {
+							"137": 5065998.0004
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"a12": {
+						"value": {
+							"137": 4941926.2493
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"a82": {
+						"value": {
+							"137": 4921783.7578
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"c09": {
+						"value": {
+							"137": 4907199
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"g82": {
+						"value": {
+							"137": 4830261.9753
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"b5b": {
+						"value": {
+							"137": 4549876.99
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"f5a": {
+						"value": {
+							"137": 4463686.5551
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"e10": {
+						"value": {
+							"137": 4457737.0004
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"f11": {
+						"value": {
+							"137": 4289566.2768
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"d14": {
+						"value": {
+							"137": 4234746
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"g21": {
+						"value": {
+							"137": 4008358
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"f16": {
+						"value": {
+							"137": 3998447
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"a10": {
+						"value": {
+							"137": 3838552.8032
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"g12": {
+						"value": {
+							"137": 3627486
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"j09": {
+						"value": {
+							"137": 3512951
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"a16": {
+						"value": {
+							"137": 3410853.9999
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"f82": {
+						"value": {
+							"137": 3399745.6666
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"v10": {
+						"value": {
+							"137": 3322001
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"d16": {
+						"value": {
+							"137": 3235014.999
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"i16": {
+						"value": {
+							"137": 3214555
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"d12": {
+						"value": {
+							"137": 3138363.03
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"e5b": {
+						"value": {
+							"137": 2973447
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"e11": {
+						"value": {
+							"137": 2943473.6308
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"d82": {
+						"value": {
+							"137": 2915592
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"b13": {
+						"value": {
+							"137": 2867150
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"b10": {
+						"value": {
+							"137": 2755448
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"d09": {
+						"value": {
+							"137": 2696008.2
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"a09": {
+						"value": {
+							"137": 2668831.0012
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"g10": {
+						"value": {
+							"137": 2654120.0004
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"h11": {
+						"value": {
+							"137": 2574632
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"c12": {
+						"value": {
+							"137": 2450389
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"i13": {
+						"value": {
+							"137": 2185949
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"d21": {
+						"value": {
+							"137": 2184672
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"c14": {
+						"value": {
+							"137": 2165761.012
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"i82": {
+						"value": {
+							"137": 2141595.9397
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"j12": {
+						"value": {
+							"137": 2140137.4444
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"f12": {
+						"value": {
+							"137": 2132082.9989
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"i21": {
+						"value": {
+							"137": 1437261
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"a21": {
+						"value": {
+							"137": 1345566
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"a88": {
+						"value": {
+							"137": 1339865
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"c88": {
+						"value": {
+							"137": 1331055
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"b09": {
+						"value": {
+							"137": 1325720
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"d13": {
+						"value": {
+							"137": 1310969
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"e82": {
+						"value": {
+							"137": 1288657.96
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"g14": {
+						"value": {
+							"137": 1230345
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"f09": {
+						"value": {
+							"137": 1188942
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"f5b": {
+						"value": {
+							"137": 1186723.3333
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"h13": {
+						"value": {
+							"137": 1126192
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"a22": {
+						"value": {
+							"137": 1055117
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"c10": {
+						"value": {
+							"137": 1041629
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"b88": {
+						"value": {
+							"137": 1012286
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"h14": {
+						"value": {
+							"137": 989859.84
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"m10": {
+						"value": {
+							"137": 798540
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"f21": {
+						"value": {
+							"137": 758447
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"g09": {
+						"value": {
+							"137": 685293
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"b21": {
+						"value": {
+							"137": 675481
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"e12": {
+						"value": {
+							"137": 567016.98
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"c21": {
+						"value": {
+							"137": 345463
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"h82": {
+						"value": {
+							"137": 292359
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"b11": {
+						"value": {
+							"137": 284680
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"f23": {
+						"value": {
+							"137": 274875
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"b82": {
+						"value": {
+							"137": 272759
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"j13": {
+						"value": {
+							"137": 270566
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"e09": {
+						"value": {
+							"137": 141842
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					},
+					"m02": {
+						"value": {
+							"137": 1368
+						},
+						"dualvalue": {},
+						"graphResults": {},
+						"pop": 1
+					}
+				}
