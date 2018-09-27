@@ -1,0 +1,2 @@
+# -Data-Visualization-Graph-Using-D3-NVD3
+Most of the interface are designed for task. Today Industry Follow the data visualisation Via Graph or via widgets. by keeping this in mind we started using visualisation library like d3 or nvd3. but after a long research came to know that these library yet not fully evolved. still need enhancement.   So i have Created a Sample test case using this for Research and Development purpose for enhancing the d3, nvd3 capabilities.
